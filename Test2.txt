@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is EA87-2543
+
+ Directory of C:\Users\v.sindhu\MyFolder
+
+01/30/2023  12:32 PM    <DIR>          .
+01/30/2023  12:32 PM    <DIR>          ..
+01/30/2023  11:26 AM                 5 index.html
+01/30/2023  11:52 AM                33 MyFile.txt
+01/30/2023  11:26 AM                11 Test.txt
+01/30/2023  12:32 PM                 0 Test2.txt
+               4 File(s)             49 bytes
+               2 Dir(s)  413,253,001,216 bytes free
